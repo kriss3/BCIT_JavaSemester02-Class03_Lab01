@@ -6,10 +6,10 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * 
+ * Class Country to play with HashMap
  * @author Krzysztof Szczurowski
  * @since 2017 01 27
- * @see 
+ * @see https://github.com/kriss3/BCIT_JavaSemester02-Class03_Lab01.git
  */
 public class Country 
 {
