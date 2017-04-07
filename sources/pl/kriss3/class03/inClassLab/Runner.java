@@ -1,7 +1,5 @@
 package pl.kriss3.class03.inClassLab;
 
-import java.awt.Color;
-
 public class Runner 
 {
 	public static void main(String[] args)
